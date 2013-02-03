@@ -1,0 +1,3 @@
+[submodule "third-party/todo.txt-cli"]
+	path = third-party/todo.txt-cli
+	url = git@github.com:freerobby/todo.txt-cli.git
