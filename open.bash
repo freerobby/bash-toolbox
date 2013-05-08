@@ -10,3 +10,4 @@ source "${TOOLS_ROOT}/rmb.bash"
 source "${TOOLS_ROOT}/subl.bash"
 
 source "${CONFIG_ROOT}/todo.txt-cli.bash"
+source "${CONFIG_ROOT}/milkmaid.bash"
