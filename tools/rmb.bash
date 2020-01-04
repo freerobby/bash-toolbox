@@ -1,5 +1,5 @@
 # Remove merged branches from a git repository
-# For explanation, see http://rob.by/2013/remove-merged-branches-from-git/
+# For explanation, see http://rob.by/2013/remove-merged-branches-from-git
 
 function rmb {
   current_branch=$(git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/')
